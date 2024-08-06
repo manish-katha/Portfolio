@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "role": "Web Development internship",
+    "organisation": "BHARAT INTERN",
+    "startDate": "SEPT, 2023",
+    "endDate": "to OCTOBER ,2023",
+    "location": "Virtual iInternship",
+    "experiences": [
+      "Designed and developed a movie streaming web app project.",
+      "Implemented a responsive web platform using a mobile-first approach and user-friendly interface design."
+    ],
+    "imageSrc": "company/google.png"
+  },
+  {
+    "id": 2,
+    "role": "Shopify Intern ",
+    "organisation": "10xTech",
+    "startDate": "07, 2024",
+    "endDate": "Present",
+    "location": "Remote/Online",
+    "experiences": [
+      "Contributed effectively as a Shopify intern, gaining hands-on experience in e-commerce platform customization, product management, and customer support, while supporting team goals and delivering solutions aligned with business objectives."
+    ],
+    "imageSrc": "company/microsoft.jpg"
+  }
+
+]

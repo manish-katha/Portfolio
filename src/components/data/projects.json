@@ -1,0 +1,42 @@
+[
+  {
+    "key": 1,
+    "title": "CreateMyBill",
+    "imageSrc": "assets/project/bill.png",
+    "description": "A robust bill creation system Using React js and Firebase.Allows users to effortlessly create, view, and print bills.",
+    "demo": "https://bill-management-green.vercel.app/",
+    "source": "https://github.com/manish-katha/Bill-management"
+  },
+  {
+    "key": 2,
+    "title": "E-student Portal",
+    "imageSrc": "https://th.bing.com/th/id/OIP.ad7KntrN5Vn7m2IopNRxJAHaHa?w=198&h=198&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+    "description": "Developed a dynamic student management module using React.Js, emphasizing frontend design and JavaScript.",
+    "demo": "https://github.com/manish-katha/Student-portal",
+    "source": "https://github.com/manish-katha/Student-portal"
+  },
+  {
+    "key": 3,
+    "title": "To-do Web app",
+    "imageSrc": "https://th.bing.com/th/id/OIP.1_RkdvFJ5yDNIOTP2hod4gHaE8?w=232&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+    "description": "Engineered a user-friendly to-do list web application leveraging React for dynamic frontend interactions and Node.js with Express.js.",
+    "demo": "https://todo-frontend-mu-ecru.vercel.app/",
+    "source": "https://github.com/manish-katha/To-do-backend"
+  },
+  {
+    "key": 4,
+    "title": "Quiz App",
+    "imageSrc": "https://wallpaperaccess.com/full/2384093.jpg",
+    "description": "Developed and deployed a comprehensive quiz application allowing users to create, manage, and participate in quizzes using React for frontend interactions and Node.js with Express.js for backend logic.",
+    "demo": "https://quiz-frontend-latest.vercel.app/",
+    "source": "https://github.com/manish-katha/Aspirenex-Quiz"
+  },
+  {
+    "key": 5,
+    "title": "Refer Earn",
+    "imageSrc": "https://www.shoppre.com/img/refer-and-earn/refer-and-earn-shoppre-shipping.png",
+    "description": "Designed and implemented a 'Refer and Earn' program on a website, driving user engagement and increasing customer acquisition through strategic program design and user-friendly interface. ",
+    "demo": "https://accredian-frontend-task-tawny-eight.vercel.app/",
+    "source": "https://github.com/manish-katha/Accredian-frontend-task"
+  }
+]
